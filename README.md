@@ -53,3 +53,10 @@ CircleCI build images for cordova projects.
 * dopry/circleci-cordova:7.0.1-25
 * dopry/circleci-cordova:7.0.1-26
 * dopry/circleci-cordova:7.0.1-27
+
+## cordova@7.1.0 (Oct 04, 2017)
+* dopry/circleci-cordova:7.1.0-23
+* dopry/circleci-cordova:7.1.0-24
+* dopry/circleci-cordova:7.1.0-25
+* dopry/circleci-cordova:7.1.0-26
+* dopry/circleci-cordova:7.1.0-27
